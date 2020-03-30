@@ -1,3 +1,4 @@
-## Algorithms
-#### About this Course
-The primary topics in this part of the specialization are: asymptotic ("Big-oh") notation, sorting and searching, divide and conquer (master method, integer and matrix multiplication, closest pair), and randomized algorithms (QuickSort, contraction algorithm for min cuts).
+## [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) - Coursera
+This repo has 4 folders - one for each Coursera course in Algorithms Specialization. 
+
+1. [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) cover asymptotic ("Big-oh") notation, sorting and searching, divide and conquer (master method, integer and matrix multiplication, closest pair), and randomized algorithms (QuickSort, contraction algorithm for min cuts). The programming assignments are in [1_Divide_and_Conquer_Sorting_Searching_and_Randomized_Algorithms](./1_Divide_and_Conquer_Sorting_Searching_and_Randomized_Algorithms)
